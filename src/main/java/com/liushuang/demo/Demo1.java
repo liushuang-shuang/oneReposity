@@ -9,5 +9,6 @@ public class Demo1 {
         System.out.println("hello，what is your name？");
         System.out.println("hi,my name is liu, and you?");
         System.out.println("my name is dev01");
+        System.out.println("ok, nice to meet you");
     }
 }
